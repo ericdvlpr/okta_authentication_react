@@ -14,11 +14,13 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "^3.0.1"
   },
+  "homepage": "https://ericdvlpr.github.io/okta_authentication_react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ericdvlpr.github.io/react_authentication"
+
 }
