@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/okta_authentication_react/static/css/main.e9639a40.chunk.css",
+    "main.js": "/okta_authentication_react/static/js/main.6918c9ee.chunk.js",
+    "main.js.map": "/okta_authentication_react/static/js/main.6918c9ee.chunk.js.map",
+    "runtime~main.js": "/okta_authentication_react/static/js/runtime~main.2b613da4.js",
+    "runtime~main.js.map": "/okta_authentication_react/static/js/runtime~main.2b613da4.js.map",
+    "static/css/2.db27b6d4.chunk.css": "/okta_authentication_react/static/css/2.db27b6d4.chunk.css",
+    "static/js/2.e720dfa8.chunk.js": "/okta_authentication_react/static/js/2.e720dfa8.chunk.js",
+    "static/js/2.e720dfa8.chunk.js.map": "/okta_authentication_react/static/js/2.e720dfa8.chunk.js.map",
+    "index.html": "/okta_authentication_react/index.html",
+    "precache-manifest.2d107e26a5346e1738363271dc6ca7bf.js": "/okta_authentication_react/precache-manifest.2d107e26a5346e1738363271dc6ca7bf.js",
+    "service-worker.js": "/okta_authentication_react/service-worker.js",
+    "static/css/2.db27b6d4.chunk.css.map": "/okta_authentication_react/static/css/2.db27b6d4.chunk.css.map",
+    "static/css/main.e9639a40.chunk.css.map": "/okta_authentication_react/static/css/main.e9639a40.chunk.css.map",
+    "static/media/okta-sign-in.min.css": "/okta_authentication_react/static/media/yubikeyDemo.f10c9db1.png"
+  }
+}
